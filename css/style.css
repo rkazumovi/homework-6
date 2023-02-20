@@ -1,0 +1,336 @@
+.section-1 {
+    display: flex;
+    width: 1920px;
+    height: 1187px;
+}
+h2 {
+    font-size: 32px;
+    opacity: 100%;
+    width: 190px;
+    height: 43px;
+    color: #3D37F1;
+    margin: 64px 730px 277px 132px;
+    font-family: 'Lato', sans-serif;
+}
+h1 {
+    font-size: 78px;
+    width: 636px;
+    height: 213px;
+    color: #534D4D;
+    margin: 0 271px 39px 132px;
+}
+.text-1 {
+    font-size: 22px;
+    width: 602px;
+    height: 31px;
+    color: #534D4D;
+    margin: 0 305px 156px 132px;
+}
+.container-1 {
+    display: flex;
+    background-color: #3D37F1;
+    width: 264px;
+    height: 77px;
+    margin: 0 643px 287px 132px;
+    border-radius: 38px;
+    justify-content: center;
+    align-items: center;
+}
+.waving-hand {
+    width: 30px;
+    height: 31px;
+    margin-right: 21px;
+}
+.waveme {
+    font-size: 23px;
+    color: #FFFFFF;
+    width: 94px;
+    height: 31px;
+}
+.ul-li {
+    display: flex;
+    width: 596px;
+    height: 27px;
+    font-size: 20px;
+    color: #3D37F1;
+    text-transform: uppercase;
+    margin: 80px 272px 266px 0;
+    justify-content: space-between;
+}
+.working {
+    width: 801px;
+    height: 526px;
+    margin: 0 80px 287px 0;
+}
+.section-2 {
+    width: 1920px;
+    height: 1444px;
+}
+h4 {
+    width: 138px;
+    height: 27px;
+    font-size: 20px;
+    color: #3D37F1;
+    text-transform: uppercase;
+    margin: 0 auto;
+    margin-bottom: 12px;
+    text-align: center;
+}
+.service {
+    width: 568px;
+    height: 53px;
+    font-size: 40px;
+    color: #5A5454;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+.text-2 {
+    width: 712px;
+    height: 85px;
+    font-size: 18px;
+    color: #747474;
+    margin: 0 auto;
+    margin-bottom: 67px;
+    text-align: center;
+}
+.div-3 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.block-1 {
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+}
+.website-ui {
+    width: 100px;
+    height: 100px;
+    margin: 88px 135px 55px 135px;
+}
+.websiteui {
+    width: 104px;
+    height: 30px;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 0 140px 12px 125px;
+}
+.text1 {
+    width: 328px;
+    height: 62px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 0 21px 11px 21px;
+}
+.container1 {
+    width: 131px;
+    height: 45px;
+    background-color: #FFFFFF;
+    border-radius: 23px;
+    margin: 0 auto;
+}
+.read-more1 {
+    width: 72px;
+    height: 20px;
+    font-size: 15px;
+    color: #4B647E;
+    text-align: justify;
+    margin: 0 auto;
+}
+.block-2 {
+    width: 370px;
+    height: 451px;
+    background-color: #41EAE3;
+    margin: 0 30px 60px 30px;
+}
+.re-design {
+    width: 100px;
+    height: 108px;
+    margin: 88px 142px 47px 128px;
+}
+.redesign {
+    width: 92px;
+    height: 30px;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+.text2 {
+    width: 328px;
+    height: 62px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 12px 21px 11px 21px;
+}
+.container2 {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    margin: 0 auto;
+}
+.read-more2 {
+    width: 72px;
+    height: 20px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background-color: #41EAE3;
+    text-align: justify;
+}
+.block-3 {
+    width: 370px;
+    height: 451px;
+    background-color: #69529F;
+}
+.application-ui {
+    width: 100px;
+    height: 115px;
+    margin: 88px 142px 47px 128px;
+}
+.app-ui {
+    width: 136px;
+    height: 30px;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+.text3 {
+    width: 328px;
+    height: 62px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 12px 21px 11px 21px;
+}
+.container3 {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    margin: 0 auto;
+}
+.read-more3 {
+    width: 72px;
+    height: 20px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background-color: #69529F;
+    text-align: justify;
+}
+.div-4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-4 {
+    width: 370px;
+    height: 451px;
+    background-color: #4386D2;
+}
+.mobile-ui {
+    width: 100px;
+    height: 106px;
+    margin: 88px 135px 55px 135px;
+}
+.mobileui {
+    width: 140px;
+    height: 30px;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+.text4 {
+    width: 328px;
+    height: 62px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 12px 21px 11px 21px;
+}
+.container4 {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    margin: 0 auto;
+}
+.read-more4 {
+    width: 72px;
+    height: 20px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background-color: #4386D2;
+    text-align: justify;
+}
+.block-5 {
+    width: 370px;
+    height: 451px;
+    background-color: #A5A2F6;
+    margin: 0 30px 1px 30px;
+}
+.web-ui {
+    width: 100px;
+    height: 90px;
+    margin: 88px 142px 47px 128px;
+}
+.webui {
+    width: 116px;
+    height: 30px;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+.text5 {
+    width: 328px;
+    height: 62px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 12px 21px 11px 21px;
+}
+.container5 {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    margin: 0 auto;
+}
+.read-more5 {
+    width: 72px;
+    height: 20px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background-color: #A5A2F6;
+    text-align: justify;
+}
+.block-6 {
+    width: 370px;
+    height: 451px;
+    background-color: #FF8088;
+}
+.web-elements {
+    width: 100px;
+    height: 100px;
+    margin: 88px 142px 47px 128px;
+}
+.webelements {
+    width: 138px;
+    height: 30px;
+    font-size: 22px;
+    color: #FFFFFF;
+    margin: 0 auto;
+}
+.text6 {
+    width: 328px;
+    height: 62px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 12px 21px 11px 21px;
+}
+.container6 {
+    width: 131px;
+    height: 45px;
+    border-radius: 23px;
+    margin: 0 auto;
+}
+.read-more6 {
+    width: 72px;
+    height: 20px;
+    font-size: 15px;
+    color: #FFFFFF;
+    background-color: #FF8088;
+    text-align: justify;
+}
